@@ -11,6 +11,7 @@
   inputs.src-nimarchive-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-nimarchive-v0_3_1.owner = "genotrance";
   inputs.src-nimarchive-v0_3_1.repo  = "nimarchive";
+  inputs.src-nimarchive-v0_3_1.dir   = "";
   inputs.src-nimarchive-v0_3_1.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

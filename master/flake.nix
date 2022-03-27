@@ -11,6 +11,7 @@
   inputs.src-nimarchive-master.ref   = "refs/heads/master";
   inputs.src-nimarchive-master.owner = "genotrance";
   inputs.src-nimarchive-master.repo  = "nimarchive";
+  inputs.src-nimarchive-master.dir   = "";
   inputs.src-nimarchive-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
